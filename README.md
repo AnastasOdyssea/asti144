@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asti144
-- 👀 I’m interested in Development
+- 👀 I’m interested in  Web Development
 - 🌱 I’m currently learning Jvascript
 - 💞️ I’m looking to collaborate on freelancing
 - 📫 You can reach me by email.This is my email odhiseaanastas@gmail.com
