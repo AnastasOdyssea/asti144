@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @asti144
+- 👋 Hi, my name is @AnastasOdyssea
 - 👀 I’m interested in  Web Development
 - 🌱 I’m currently learning Jvascript
 - 💞️ I’m looking to collaborate on freelancing
 - 📫 You can reach me by email.This is my email odhiseaanastas@gmail.com
 
-<!---
-asti144/asti144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
